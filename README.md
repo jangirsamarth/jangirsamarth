@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jangirsamarth?tab=repositories](https://github.com/jangirsamarth?tab=repositories)
+- 👨‍💻 All of my projects are available at [Link](https://github.com/jangirsamarth?tab=repositories)
 
-- 📫 How to reach me **https://jangirsamarth.github.io/samarth-portfolio/**
+- 📫 How to reach me **samarth8947@gmail.com/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ONcyA3617Gh2oS-C-ZO7WQh6v-dJCCdz/view?usp=sharing](https://drive.google.com/file/d/1ONcyA3617Gh2oS-C-ZO7WQh6v-dJCCdz/view?usp=sharing)
+- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1ONcyA3617Gh2oS-C-ZO7WQh6v-dJCCdz/view?usp=sharing)
 
 - ⚡ Fun fact **I am boring**
 
