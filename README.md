@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **samarth8947@gmail.com/**
 
-- 📄 Know about my experiences [Link]((https://drive.google.com/drive/folders/1FP3ScQ-ORZnKKG9c-YrRaPMNdnC555pV))
+- 📄 Know about my experiences [Link](https://drive.google.com/drive/folders/1FP3ScQ-ORZnKKG9c-YrRaPMNdnC555pV)
 
 - ⚡ Fun fact **I am boring**
 
